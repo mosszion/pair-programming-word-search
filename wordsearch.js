@@ -1,3 +1,5 @@
+//Pair programming-Wordseach done by Mussie,Patrick and Monica.
+
 const wordSearch = (letters, word) => { 
     //Return false for empty array
     
